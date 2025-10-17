@@ -1,4 +1,4 @@
-
+//simple Java calculator built using the AWT (Abstract Window Toolkit) library.
 
 import java.awt.*;
 import java.awt.event.*;
@@ -100,4 +100,5 @@ public class Calculator1 extends Frame implements ActionListener {
         new Calculator1();
     }
 }
+
 
